@@ -1,0 +1,1 @@
+git rev-parse HEAD : to print the hash of the latest commit

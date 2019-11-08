@@ -1,0 +1,5 @@
+1/ touch .gitignore : to create gitignore file
+2/ insert the code below into .gitignore :
+.o
+logs/folder
+!logs/test
