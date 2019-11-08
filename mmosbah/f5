@@ -1,3 +1,3 @@
 *.o
-logs/*
+logs/
 !logs/test
