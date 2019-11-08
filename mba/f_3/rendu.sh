@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -m "we all love pasta carbonara con leche"
+wc -w "we all love pasta carbonara con leche"
