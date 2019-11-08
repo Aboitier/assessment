@@ -1,0 +1,2 @@
+echo "we all love pasta alla carbonara con leche" | wc -w
+

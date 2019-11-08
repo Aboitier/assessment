@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "it tells the shell what program to interpret the script with, when executed."
