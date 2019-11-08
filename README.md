@@ -21,3 +21,4 @@ And there it started...
 5. Write a .gitignore that will ignore .o files as well as files located in the logs/ folder except the file logs/test.
 6. Can you write a Shell script shebang ? Bonus, can you explain its purpose ?
 7. Can you write a Shell script that prints "neat bruh" if we input 'Z' to it ?
+
