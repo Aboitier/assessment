@@ -1,0 +1,3 @@
+*.o
+./.git/logs
+!./git/logs/test
