@@ -1,0 +1,5 @@
+#! /bin/bash
+read repo
+case $repo in
+[Z]) echo "neat bruh";;
+esac
