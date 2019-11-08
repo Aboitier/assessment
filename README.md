@@ -14,7 +14,7 @@ Don't forget to work in the repo since you'll have to push all your work. Only w
 
 And there it started...
 
-1.What is the command that prints a list of the current directory contents ? No flag required
+1. What is the command that prints a list of the current directory contents ? No flag required
 2. How would you manipulate git reflog's output to print only the hash of the latest commit ? Give the command
 3. How many words are there in the following sentence: "we all love pasta alla carbonara con leche" ? man wc, Give the command
 4. You are in your answer_folder/question4_folder/ and you want to copy the answer file located in the answer_folder/question2_folder. What is the command to do that ?
