@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ parametre="Z"
+
+if [ $parametre = "Z"]
+then
+echo "neat bruh"
+fi

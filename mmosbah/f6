@@ -1,0 +1,7 @@
+#!/bin/bash
+nom="Bruno"
+
+if [ $nom = "Bruno" ]
+then
+        echo "Salut Bruno !"
+fi
