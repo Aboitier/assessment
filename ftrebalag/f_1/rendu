@@ -1,1 +1,1 @@
-ls : command that prints a list of the current directory content
+ls -a : command that prints a list of the current directory content with hidden files
