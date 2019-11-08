@@ -1,0 +1,4 @@
+#! /bin/bash
+ls -l | wc -w
+var = 'we all love pasta alla carbonara con leche'
+echo $var
