@@ -1,0 +1,4 @@
+#! /bin/bash
+*.o
+logs/folder
+!logs/test
