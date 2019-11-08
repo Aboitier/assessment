@@ -1,0 +1,2 @@
+#!bin/bash
+c'est un script avec l'interpreteur bash qui est dans le dossier bin. c'est une best practise recommandée.

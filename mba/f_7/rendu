@@ -1,0 +1,7 @@
+#!/bin/bash
+input=Z
+read -p "Entrez Z"
+if [$input = "Z" ]
+then
+echo " neat bruh"
+fi
